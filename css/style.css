@@ -3201,7 +3201,7 @@
   .main-list li a {
     color: var(--background);
     text-decoration: none;
-    font-size: 16px;
+    font-size: 18px;
     transition: all 0.5s ease;
   }
 
@@ -3229,7 +3229,7 @@
   }
 
   .dropdown1 {
-    font-size: 16px;
+    font-size: 18px;
     color: var(--background);
     cursor: pointer;
     padding: 6px 0px;
@@ -3299,9 +3299,9 @@
     align-items: center;
     justify-content: center;
     display: inline-flex;
-    gap: 5px;
+    gap: 10px;
     font-weight: bold;
-    margin: 0px 0 0 20px;
+    margin: 0px 0 0 55px;
     cursor: pointer;
     transition: all 0.5s ease;
   }
