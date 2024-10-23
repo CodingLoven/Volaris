@@ -1021,7 +1021,19 @@
   .logo-bottom:hover {
     transform: scaleX(1.12);
     transition: 2s ease;
+  }
 
+  .recognition {
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+    color: var(--background);
+    padding: 2rem 0;
+  }
+
+  .recognition a {
+    color: var(--background);
+    font-weight: bold;
   }
 
 }
@@ -2050,6 +2062,19 @@
   .logo-bottom:hover {
     transform: scaleX(1.12);
     transition: 2s ease;
+  }
+
+  .recognition {
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+    color: var(--background);
+    padding: 2rem 0;
+  }
+
+  .recognition a {
+    color: var(--background);
+    font-weight: bold;
   }
 }
 
@@ -3105,6 +3130,19 @@
   .logo-bottom:hover {
     transform: scaleX(1.12);
     transition: 2s ease;
+  }
+
+  .recognition {
+    text-align: center;
+    font-size: 14px;
+    font-weight: lighter;
+    color: var(--background);
+    padding: 2rem 0;
+  }
+
+  .recognition a {
+    color: var(--background);
+    font-weight: bold;
   }
 }
 
@@ -4171,5 +4209,18 @@
   .logo-bottom:hover {
     transform: scaleX(1.12);
     transition: 2s ease;
+  }
+
+  .recognition {
+    text-align: center;
+    font-size: 12px;
+    font-weight: lighter;
+    color: var(--background);
+    padding: 2rem 0;
+  }
+
+  .recognition a {
+    color: var(--background);
+    font-weight: bold;
   }
 }
